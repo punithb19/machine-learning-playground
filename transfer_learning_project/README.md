@@ -1,0 +1,2 @@
+- Jupyter Notebook is present inside the notebook folder. 
+- data/RealWaste folder is just a place holder. Please place your data inside this folder to run the notebook.
